@@ -1,0 +1,16 @@
+{
+  "name": "node-grpc-client",
+  "version": "1.0.0",
+  "main": "client.js",
+  "keywords": [],
+  "scripts": {
+    "start": "node client.js"
+  },
+  "author": "Shahilcoder",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@grpc/grpc-js": "^1.14.3",
+    "@grpc/proto-loader": "^0.8.0"
+  }
+}
