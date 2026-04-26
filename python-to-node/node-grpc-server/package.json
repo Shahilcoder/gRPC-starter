@@ -1,0 +1,13 @@
+{
+  "name": "node-grpc-server",
+  "version": "1.0.0",
+  "main": "server.js",
+  "keywords": [],
+  "author": "Shahilcoder",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@grpc/grpc-js": "^1.14.3",
+    "@grpc/proto-loader": "^0.8.0"
+  }
+}
